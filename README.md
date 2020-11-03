@@ -1,11 +1,11 @@
 👋 **Here's a little bit about me:**
 
-- ✨ Developer, hacker and sysadmin.
-- 🌍 Based in Haifa, Israel.
-- 💼 Working as a software engineer at [University of Haifa](https://haifa.ac.il/).
-- 🎯 Member of [Privacy Israel](https://www.privacyisrael.org.il/)
-- 🛠 Mostly code in JavaScript/Typescript and shell scripting.
-- 📫 Find me on · [linkedin](https://www.linkedin.com/in/alik-chebotar/) · [email](mailto:kip0d@pm.me)
+- ✨  Developer, hacker and sysadmin.
+- 🌍  Based in Haifa, Israel.
+- 💼  Working as a software engineer at [University of Haifa](https://haifa.ac.il/).
+- 🎯  Member of [Privacy Israel](https://www.privacyisrael.org.il/)
+- 🛠  Mostly code in JavaScript/Typescript and shell scripting.
+- 📫  Find me on · [linkedin](https://www.linkedin.com/in/alik-chebotar/) · [email](mailto:kip0d@pm.me)
 
 
 <a href="https://github.com/ochebotar">
