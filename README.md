@@ -1,7 +1,6 @@
 👋 **Here's a little bit about me:**
 
 - ✨  Developer, hacker and sysadmin.
-- 🌍  Based in Roanne (Auvergne-Rhône-Alpes), France.
 - 💼  Working as an independent freelancer.
 - 🎯  Member of [Privacy Israel](https://www.privacyisrael.org.il/)
 - 🛠  Mostly code in Python/CPP/Shell-scripting and Web development tools: Node.js, Typescript/Javascript.
